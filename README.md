@@ -1,16 +1,55 @@
-## Hi there 👋
+<!-- Banner -->
+![Banner](https://via.placeholder.com/900x250.png?text=Humayra+Binte+Jamal+-+Full+Stack+Developer)
 
-<!--
-**Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌸 Humayra Binte Jamal  
+**Full Stack Developer | Building human-centered, reliable, and growth-friendly web solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+Hi! I’m Humayra, a learner, builder, and empathetic problem-solver.  
+I may not claim to be exceptional at one single thing, but I put my heart into everything I do.  
+I value emotional connection, honesty, and a respectful environment where people can grow without fear of judgment.  
+
+Currently, I’m:
+- 🌱 Exploring **Next.js** & backend integration
+- 🏗 Building **Unité** – a complete building management system
+- 💳 Improving my **Stripe payment integration** skills
+- 🔐 Learning **secure authentication with JWT**
+
+---
+
+## 🛠 Skills
+**Frontend:** ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind)  
+**Backend:** ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase)  
+**Tools:** ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Postman](https://skillicons.dev/icons?i=postman) ![Stripe](https://skillicons.dev/icons?i=stripe)  
+
+---
+
+## 🌐 Connect With Me
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/humayrabintejamal)
+
+---
+
+## 📊 GitHub Stats
+![Humayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+
+---
+
+## 📌 Pinned Projects
+### 1. **Unité – Building Management System**
+- **Description:** A full-stack platform for managing apartment agreements, payments, and announcements.
+- **Live Link:** [https://unit-app-client.web.app/](#)
+- **Tech:** React, Node.js, MongoDB, Stripe, Firebase
+- **Features:** Role-based dashboards, coupon system, secure payments.
+
+### 2. **FoodLoop - Food Share App**
+- **Description:** Food donation/request platform with secure JWT authentication.
+- **Live Link:** [(https://food-loop-90e05.web.app/)](#)
+- **Tech:** React, Express, MongoDB, Firebase
+
+
+---
+
