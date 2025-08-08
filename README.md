@@ -26,15 +26,16 @@ Currently, I’m:
 
 ---
 
-## 🌐 Connect With Me
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/humayrabintejamal)
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/humayra-binte-jamal-11a921295/)
+- [Email](mailto:humayra1111@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-![Humayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![Humayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humayra-Binte-Jamal-5475&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Humayra-Binte-Jamal-5475&theme=tokyonight)
+
 
 ---
 
