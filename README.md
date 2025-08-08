@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Banner](https://via.placeholder.com/900x250.png?text=Humayra+Binte+Jamal+-+Full+Stack+Developer)
 
 # 🌸 Humayra Binte Jamal  
 **Full Stack Developer | Building human-centered, reliable, and growth-friendly web solutions**
