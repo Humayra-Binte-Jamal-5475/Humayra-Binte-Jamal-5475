@@ -27,8 +27,7 @@ Currently, I’m:
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/humayra-binte-jamal-11a921295/)
-- [Email](mailto:humayra1111@gmail.com)
+- <a href="https://www.linkedin.com/in/humayra-binte-jamal-11a921295/" target="_blank">LinkedIn</a>
 
 ---
 
