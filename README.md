@@ -35,9 +35,6 @@ Currently, I’m:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humayra-Binte-Jamal-5475&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Humayra-Binte-Jamal-5475&theme=tokyonight)
-
-
 ---
 
 ## 📌 Pinned Projects
