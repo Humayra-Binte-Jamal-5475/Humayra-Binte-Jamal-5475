@@ -31,7 +31,7 @@ Currently, I’m:
 
 ## 📊 GitHub Stats
 ![Humayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humayra-Binte-Jamal-5475&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Humayra-Binte-Jamal-5475&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Humayra-Binte-Jamal-5475&theme=tokyonight)
 
 
 ---
