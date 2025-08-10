@@ -30,7 +30,6 @@ Currently, I’m:
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 ![Humayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humayra-Binte-Jamal-5475&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humayra-Binte-Jamal-5475&layout=compact&theme=tokyonight)
