@@ -1,4 +1,4 @@
-
+# ![Banner](https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/blob/main/banner.jpg)
 # 🌸 Humayra Binte Jamal  
 **Full Stack Developer | Building human-centered, reliable, and growth-friendly web solutions**
 
