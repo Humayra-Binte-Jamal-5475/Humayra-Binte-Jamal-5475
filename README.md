@@ -37,19 +37,21 @@ Currently, I’m:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humayra-Binte-Jamal-5475&layout=compact&theme=tokyonight)
 
 ---
-
 ## 📌 Pinned Projects
+
 ### 1. **Unité – Building Management System**
 - **Description:** A full-stack platform for managing apartment agreements, payments, and announcements.
-- **Live Link:** [(https://unit-app-client.web.app)](#)
+- **Live Link:** [Live Site](https://unit-app-client.web.app)
 - **Tech:** React, Node.js, MongoDB, Stripe, Firebase
 - **Features:** Role-based dashboards, coupon system, secure payments.
- # ![App Screenshot](https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/blob/main/uniteSS.png)
+- **Screenshot:** ![App Screenshot](https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/raw/main/uniteSS.png)
+
 ### 2. **FoodLoop - Food Share App**
 - **Description:** Food donation/request platform with secure JWT authentication.
-- **Live Link:** [(https://food-loop-90e05.web.app)](#)
+- **Live Link:** [Live Site](https://food-loop-90e05.web.app)
 - **Tech:** React, Express, MongoDB, Firebase
-# ![App Screenshot](https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/blob/main/foodloopSS.png)
+- **Screenshot:** ![App Screenshot](https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/raw/main/foodloopSS.png)
+
 
 
 ---
