@@ -20,7 +20,7 @@ Currently, I’m:
 ## 🛠 Skills
 **Frontend:** ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind)  
 **Backend:** ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase)  
-**Tools:** ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Postman](https://skillicons.dev/icons?i=postman) ![Stripe](https://skillicons.dev/icons?i=stripe)  
+**Tools:** ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Stripe](https://skillicons.dev/icons?i=stripe)  
 
 ---
 
