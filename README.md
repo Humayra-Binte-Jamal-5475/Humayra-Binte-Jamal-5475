@@ -41,13 +41,13 @@ Currently, I’m:
 ## 📌 Pinned Projects
 ### 1. **Unité – Building Management System**
 - **Description:** A full-stack platform for managing apartment agreements, payments, and announcements.
-- **Live Link:** [https://unit-app-client.web.app/](#)
+- **Live Link:** [(https://unit-app-client.web.app)](#)
 - **Tech:** React, Node.js, MongoDB, Stripe, Firebase
 - **Features:** Role-based dashboards, coupon system, secure payments.
 
 ### 2. **FoodLoop - Food Share App**
 - **Description:** Food donation/request platform with secure JWT authentication.
-- **Live Link:** [(https://food-loop-90e05.web.app/)](#)
+- **Live Link:** [(https://food-loop-90e05.web.app)](#)
 - **Tech:** React, Express, MongoDB, Firebase
 
 
