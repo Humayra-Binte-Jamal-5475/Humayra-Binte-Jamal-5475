@@ -44,12 +44,12 @@ Currently, I’m:
 - **Live Link:** [(https://unit-app-client.web.app)](#)
 - **Tech:** React, Node.js, MongoDB, Stripe, Firebase
 - **Features:** Role-based dashboards, coupon system, secure payments.
-- **Screenshot:** ![App Screenshot] (https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/blob/main/uniteSS.png)
+ ![App Screenshot] (https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/blob/main/uniteSS.png)
 ### 2. **FoodLoop - Food Share App**
 - **Description:** Food donation/request platform with secure JWT authentication.
 - **Live Link:** [(https://food-loop-90e05.web.app)](#)
 - **Tech:** React, Express, MongoDB, Firebase
-- **Screenshot:** ![App Screenshot] (https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/blob/main/foodloopSS.png)
+  ![App Screenshot] (https://github.com/Humayra-Binte-Jamal-5475/Humayra-Binte-Jamal-5475/blob/main/foodloopSS.png)
 
 
 ---
