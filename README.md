@@ -25,7 +25,9 @@ Currently, I’m:
 ---
 
 ## 📫 Let's Connect
-- <a href="https://www.linkedin.com/in/humayra-binte-jamal-11a921295/" target="_blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/humayra-binte-jamal-11a921295/" target="_blank">🌐 LinkedIn</a>
+- 📧 Email: [humayra1111@gmail.com](mailto:humayra1111@gmail.com)
+- 📱 Phone: +8801712222758
 
 ---
 
